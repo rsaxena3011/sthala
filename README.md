@@ -34,7 +34,7 @@ audio playback. No API keys, no cloud, no per-minute voice bills.
 ```
 harvest.py  →  write.py  →  voice.py  →  walk.py (on phone, Termux)
    OSM +        Gemma 4      Indic          GPS zones +
-   Wikipedia    via Ollama   Parler-TTS     audio playback
+   Wikipedia    via Ollama   MMS-TTS        audio playback
 ```
 
 1. **harvest.py** pulls temples, tanks, and forts that have Wikipedia links
@@ -45,7 +45,7 @@ harvest.py  →  write.py  →  voice.py  →  walk.py (on phone, Termux)
    story plus two deeper layers, tags every sentence `[History]` / `[Legend]` /
    `[Scripture]` with its source link. A second "skeptic" pass deletes any line
    the sources do not support. Human review last.
-3. **voice.py** voices the scripts with AI4Bharat's Indic Parler-TTS. It writes
+3. **voice.py** voices the scripts with Meta's MMS-TTS (open weights). It writes
    the MP3s, a map file of the stops, and an automatic credits file.
 4. **walk.py** runs on a rooted Android phone in Termux. One home-screen tap
    starts it. It holds a wake lock, checks GPS every 5 seconds, and needs two
@@ -68,7 +68,7 @@ python3 walk.py --pack mumbai-demo --demo
 # 1. On the PC: build the pack
 python3 harvest.py --pack mumbai-demo
 python3 write.py --pack mumbai-demo        # needs Ollama + Gemma 4 E4B locally
-python3 voice.py --pack mumbai-demo --voices hi,en   # needs parler-tts + torch
+python3 voice.py --pack mumbai-demo --voices hi,en   # needs transformers + torch (MMS-TTS)
 
 # 2. Copy packs/mumbai-demo/ to the phone (Termux ~/sthala/)
 
@@ -104,7 +104,7 @@ docs/LOCKED.md          demo video lock record
 | Map data | OpenStreetMap (Overpass API) | free, open |
 | Article text | Wikipedia (MediaWiki API, CC BY-SA) | free, open |
 | Story writing | Gemma 4 E4B via Ollama / llama.cpp, local | free, open weights |
-| Voice | AI4Bharat Indic Parler-TTS, local | free, open |
+| Voice | Meta MMS-TTS (open weights), local | free, open |
 | Phone runtime | Termux + termux-api | free |
 
 Why open matters here: cloud voice services charge per character, so a
