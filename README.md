@@ -117,3 +117,8 @@ script next year; no silent model update can rewrite a legend.
 - Code: MIT.
 - Story text and audio derive from Wikipedia content and are shared under
   CC BY-SA 4.0 (see per-pack `sources.md` and `CREDITS.md`).
+
+## Credits
+
+Brainstorming and copywriting: Notion AI, ChatGPT, Piku, and piku 2.
+[BOSS TO CONFIRM]
