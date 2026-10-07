@@ -1,0 +1,150 @@
+{
+ "pack": "mumbai-demo",
+ "model": "gemma3:4b",
+ "stops": {
+  "sewri-sewri-fort": {
+   "deleted": [
+    {
+     "lang": "hi",
+     "layer": "1",
+     "text": "यह मुंबई बंदरगाह पर दृष्टि रखने के लिए एक पहरे की मीनार के रूप में काम करता था। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "hi",
+     "layer": "2",
+     "text": "इस किले का निर्माण १६८० में हुआ था, और यह मुंबई के बंदरगाह पर नजर रखने के लिए बनाया गया था। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "en",
+     "layer": "1",
+     "text": "The fort’s construction followed relentless attacks by the Siddis, African sailors allied with the Mughals, who viewed the British as enemies. [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "en",
+     "layer": "2",
+     "text": "The inner ring of walls adds another layer of protection, demonstrating the meticulous planning of the British engineers. [History]",
+     "tag": "History"
+    }
+   ],
+   "kept_counts": {
+    "hi/layer1": 14,
+    "hi/layer2": 8,
+    "hi/layer3": 6,
+    "en/layer1": 13,
+    "en/layer2": 7,
+    "en/layer3": 5
+   }
+  },
+  "banganga-banganga-tank": {
+   "deleted": [
+    {
+     "lang": "hi",
+     "layer": "1",
+     "text": "1715 में, राम कामत के दान से इसका पुनर्निर्माण किया गया था। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "hi",
+     "layer": "2",
+     "text": "यह स्थान गउड सारसवत ब्राह्मणों के लिए एक महत्वपूर्ण केंद्र है, जो यहाँ सदियों से अपने मंदिर ट्रस्ट के भवन में रहते हैं। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "en",
+     "layer": "1",
+     "text": "Remarkably, the tank was rebuilt in 1715 thanks to a generous donation from Rama Kamath, showcasing the ongoing devotion to this sacred space. [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "en",
+     "layer": "2",
+     "text": "The rebuilding in 1715, funded by Rama Kamath, demonstrates the continued importance of the tank to the local community and their devotion. [History]",
+     "tag": "History"
+    }
+   ],
+   "kept_counts": {
+    "hi/layer1": 11,
+    "hi/layer2": 7,
+    "hi/layer3": 7,
+    "en/layer1": 13,
+    "en/layer2": 9,
+    "en/layer3": 8
+   }
+  },
+  "banganga-walkeshwar-temple": {
+   "deleted": [
+    {
+     "lang": "hi",
+     "layer": "1",
+     "text": "यह शहर का सबसे ऊंचा बिंदु है और मंदिर के पास बांगंगा टैंक है। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "hi",
+     "layer": "2",
+     "text": "राम कामती, एक गौड़ सरस्वत ब्राह्मण, ने 1715 में मंदिर को पुनर्निर्माण करने में महत्वपूर्ण भूमिका निभाई। [History]",
+     "tag": "History"
+    },
+    {
+     "lang": "en",
+     "layer": "1",
+     "text": "The temple’s name, Banganga, originates from a fascinating tale. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "1",
+     "text": "Legend says that Rama, while pursuing Ravana, was desperate for fresh water and used his arrow to bring the Ganges here. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "1",
+     "text": "This created the Banganga Tank, fed by an underground spring, despite its location near the sea. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "2",
+     "text": "The story of Rama’s creation of the Banganga Tank is more than just a legend; it’s a reflection of the importance of water in ancient India. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "2",
+     "text": "Consider the impact of the Malabar pirates, who frequented the islands during the 16th and 17th centuries, and their connection to the temple’s history. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "2",
+     "text": "Now, take a moment to examine the Banganga Tank itself. [Touch]",
+     "tag": ""
+    },
+    {
+     "lang": "en",
+     "layer": "3",
+     "text": "The temple’s association with the Malabar pirates reveals a complex interplay of religious and maritime influences. [Legend]",
+     "tag": "Legend"
+    },
+    {
+     "lang": "en",
+     "layer": "3",
+     "text": "Reflect on the temple’s journey through destruction and reconstruction, a story of resilience and faith. [History]",
+     "tag": "History"
+    }
+   ],
+   "kept_counts": {
+    "hi/layer1": 14,
+    "hi/layer2": 6,
+    "hi/layer3": 5,
+    "en/layer1": 6,
+    "en/layer2": 6,
+    "en/layer3": 6
+   }
+  }
+ }
+}

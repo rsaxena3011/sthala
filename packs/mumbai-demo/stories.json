@@ -1,0 +1,673 @@
+{
+ "pack": "mumbai-demo",
+ "model": "gemma3:4b",
+ "stops": {
+  "sewri-sewri-fort": {
+   "name": "Sewri Fort",
+   "status": "draft",
+   "layers": {
+    "hi": {
+     "1": [
+      {
+       "text": "सिवरी दुर्ग ब्रिटिशों द्वारा मुम्बई के सिवरी में बनाया गया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसका निर्माण १६८० में एक उत्खनित पहाड़ी पर हुआ था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसकी दीवारों पर ५० सिपाही तैनात थे, और यह आठ से दस तोपों से लैस था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "१६८९ में, सिद्दी जनरल याकूत खान ने यहाँ हमला किया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस किले ने १७७२ में पुर्तगाली आक्रमण को भी विफल कर दिया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "बाद में, इसे कैदियों को रखने के लिए इस्तेमाल किया गया। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आज, यह किला महाराष्ट्र राज्य के पुरातत्व विभाग द्वारा संरक्षित है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसे एक महत्वपूर्ण विरासत स्थल के रूप में वर्गीकृत किया गया है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस किले को बहाल करने के लिए एक परियोजना चल रही है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस परियोजना में दीवारों की मरम्मत, छतें बनाना और एक बगीचा बनाना शामिल है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसके अतिरिक्त, यहाँ एक समुद्री सैरगाह और एक सुसज्जित बगीचा भी बनाया जाएगा। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह किला पक्षियों को देखने के लिए भी एक शानदार जगह है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यहाँ लेसर फ्लेमिंगो जैसे प्रवासी पक्षियों को देखा जा सकता है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप इस किले की दीवारों पर ध्यान देकर इसकी भव्यता का अनुभव कर सकते हैं। [History]",
+       "tag": "History"
+      }
+     ],
+     "2": [
+      {
+       "text": "यदि आप ध्यान से देखें, तो आप पाएंगे कि किले की दीवारें बहुत मजबूत हैं, जो उस समय के ब्रिटिश इंजीनियरों की कुशलता को दर्शाती हैं। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "सिद्दी सेना ने १६८९ में इस किले पर हमला किया था, और इसे जीतने के बाद उन्होंने माहिम और मझगाँव को भी जीत लिया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह किला एक महत्वपूर्ण रक्षात्मक स्थान था, और इसने कई हमलों को विफल करने में मदद की। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "अब, आप इस किले के चारों ओर चलें और इसकी वास्तुकला का निरीक्षण करें। [Scripture]",
+       "tag": "Scripture"
+      },
+      {
+       "text": "आप देखेंगे कि किले के अंदरूनी हिस्से में एक पंचकोना कमरा है, जो उस समय के वास्तुकारों की रचनात्मकता का प्रमाण है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस किले के पुनर्निर्माण के प्रयास सराहनीय हैं, और यह आने वाली पीढ़ियों के लिए एक महत्वपूर्ण विरासत स्थल बने रहेगा। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप इस किले के आस-पास के क्षेत्र में मौजूद विभिन्न प्रकार के पक्षियों को भी देख सकते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप इस किले के प्रवेश द्वार पर खड़े होकर इसकी भव्यता का अनुभव कर सकते हैं। [History]",
+       "tag": "History"
+      }
+     ],
+     "3": [
+      {
+       "text": "सिवरी दुर्ग का निर्माण १६८० में हुआ था, और यह एक महत्वपूर्ण रक्षात्मक स्थान था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस किले की दीवारों पर ध्यान दें, और आप देखेंगे कि वे बहुत मजबूत हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस किले के पुनर्निर्माण के प्रयास सराहनीय हैं, और यह आने वाली पीढ़ियों के लिए एक महत्वपूर्ण विरासत स्थल बने रहेगा। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप इस किले के आस-पास के क्षेत्र में मौजूद विभिन्न प्रकार के पक्षियों को भी देख सकते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप इस किले के प्रवेश द्वार पर खड़े होकर इसकी भव्यता का अनुभव कर सकते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "अब, आप इस किले के चारों ओर चलें और इसकी वास्तुकला का निरीक्षण करें। [History]",
+       "tag": "History"
+      }
+     ]
+    },
+    "en": {
+     "1": [
+      {
+       "text": "Welcome to Sewri Fort, a remarkable structure built by the British in 1680. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Originally a watch tower, it oversaw the burgeoning Mumbai harbor, a strategic shift from Surat. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "At its peak, it housed 50 sepoys, commanded by a subedar, and was armed with eight to ten cannons. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "In 1689, a massive invasion by Siddi General Yadi Sakat, with 20,000 men, saw the fort captured, followed by the sacking of Mahim. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The fort played a crucial role in repelling a Portuguese attack in 1772, demonstrating its continued importance. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "After its military significance waned, it served as a prison and later a Bombay Port Trust godown. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The fort’s architecture is defined by its defensive design, featuring a high stone wall and a pentagonal room with a long domed corridor. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Its strategic location, atop a sheer cliff overlooking the Sewree mudflats, now attracts migratory birds, particularly flamingos. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Currently, the Maharashtra State Department of Archaeology and Museums is undertaking a significant restoration project. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Phase I aims to repair the crumbling walls, rebuild the roof, and create a museum and garden. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Phase II will transform the surrounding area with a promenade, landscaped garden, food court, and amphitheater. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "This ambitious project, estimated at ₹36.5 million in 2008, reflects the fort’s ongoing importance to Mumbai. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Take a moment to appreciate the scale of this historic site, a testament to British strategic planning and enduring coastal defense. [Legend]",
+       "tag": "Legend"
+      }
+     ],
+     "2": [
+      {
+       "text": "Let’s spend a little more time examining the fort’s construction. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Notice the thick stone walls – they were designed to withstand prolonged attacks, a key feature of 17th-century military architecture. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Consider the strategic placement of the entrance – it’s designed to funnel attackers into a defensive position. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Imagine the activity within this courtyard, the sounds of soldiers, the preparation for battle. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "The pentagonal room and domed corridor were uncommon features for the time, suggesting a degree of sophistication in the fort’s design. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Think about the challenges of building a fort on this dramatic cliff face – the engineering feat is remarkable. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Now, look closely at the stonework; can you identify the tools and techniques used by the builders? [History]",
+       "tag": "History"
+      }
+     ],
+     "3": [
+      {
+       "text": "The Sewri Fort represents more than just a military structure; it’s a window into the complex political landscape of 17th-century India. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "The constant warfare between the British, the Siddis, and the Mughals highlights the intense competition for power in the region. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The fort’s evolution – from a watchtower to a prison to a storage facility – reflects the changing fortunes of Mumbai and its strategic importance. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The ongoing restoration project is a vital effort to preserve this landmark for future generations, ensuring its story continues to be told. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "As you stand here, consider the countless lives that were impacted by the events that unfolded within these walls. [Legend]",
+       "tag": "Legend"
+      }
+     ]
+    }
+   }
+  },
+  "banganga-banganga-tank": {
+   "name": "Banganga Tank",
+   "status": "draft",
+   "layers": {
+    "hi": {
+     "1": [
+      {
+       "text": "बाणगंगा तालाव मुंबई के मालाबार पहाड़ी पर स्थित एक पवित्र जल निकाय है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसकी स्थापना ईस्वी सन् 1127 में लक्ष्मण प्रभु ने की थी, जो उस समय ठाणे के सिलहारा राजाओं के दरबार में एक मंत्री थे। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह तालाव एक सुंदर, आयताकार तालाब है, जिसके चारों ओर कदम हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यहाँ प्राचीन काल से दीपदान की परंपरा चली आ रही है, जो इसकी शांति और पवित्रता को दर्शाती है। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "यह तालाव गउड सारसवत ब्राह्मणों के मंदिर ट्रस्ट द्वारा संचालित है, जो यहाँ कई पीढ़ियों से निवास कर रहे हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह तालाव प्राकृतिक रूप से मीठे पानी का स्रोत है, जो इसे विशेष बनाता है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "हर साल देव दिवाली के दौरान यहाँ बड़ी संख्या में लोग आते हैं और दीपों की रोशनी में इसका विसर्जन करते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस स्थान की सुंदरता और शांति ने कई कलाकारों को प्रेरित किया है। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "आज भी आप इस तालाव के शांत वातावरण का अनुभव कर सकते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस स्थान पर ध्यान केंद्रित करके आप शांति और सुकून पा सकते हैं। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "अब आप तालाब के चारों ओर के पत्थरों को ध्यान से देखें और उनकी बनावट को महसूस करें। [Touch]",
+       "tag": "Touch"
+      }
+     ],
+     "2": [
+      {
+       "text": "बाणगंगा तालाव की स्थापना ईस्वी सन् 1127 में लक्ष्मण प्रभु द्वारा की गई थी, जो उस समय ठाणे के सिलहारा राजाओं के दरबार में एक महत्वपूर्ण मंत्री थे। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह स्थान रामायण के समय से जुड़ा हुआ है, जहाँ राम और लक्ष्मण ने यहाँ पानी के लिए प्रार्थना की थी। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "इसकी जल आपूर्ति प्राकृतिक है, जो इसे एक अद्वितीय स्थान बनाती है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यहाँ कई संतों और गुरुओं ने ध्यान और साधना की, और उनकी समाधियाँ यहाँ मौजूद हैं। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "इसकी स्थापना के बाद से, यह स्थान कला और संस्कृति का केंद्र रहा है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसकी शांति और सुंदरता ने कई कलाकारों को प्रेरित किया है। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "अब आप इस स्थान के इतिहास के बारे में और जानने के लिए मंदिर ट्रस्ट के भवन की ओर देखें। [Look]",
+       "tag": "Look"
+      }
+     ],
+     "3": [
+      {
+       "text": "बाणगंगा तालाव का निर्माण ईस्वी सन् 1127 में लक्ष्मण प्रभु ने किया था, जो उस समय ठाणे के सिलहारा राजाओं के दरबार में एक मंत्री थे। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह तालाव रामायण के समय से जुड़ा हुआ है, जहाँ राम और लक्ष्मण ने यहाँ पानी के लिए प्रार्थना की थी। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "इसकी जल आपूर्ति प्राकृतिक है, जो इसे एक अद्वितीय स्थान बनाती है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यहाँ कई संतों और गुरुओं ने ध्यान और साधना की, और उनकी समाधियाँ यहाँ मौजूद हैं। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "यह स्थान गउड सारसवत ब्राह्मणों के लिए एक महत्वपूर्ण केंद्र है, जो यहाँ सदियों से अपने मंदिर ट्रस्ट के भवन में रहते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इसकी स्थापना के बाद से, यह स्थान कला और संस्कृति का केंद्र रहा है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "अब आप इस स्थान पर बैठकर शांति और सुकून का अनुभव करें। [Touch]",
+       "tag": "Touch"
+      }
+     ]
+    },
+    "en": {
+     "1": [
+      {
+       "text": "Welcome to Banganga Tank, a truly remarkable place steeped in history and tradition. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "This ancient tank, dating back to 1127 AD, was created by Lakshman Prabhu, a minister serving the Silhara kings of Thane. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The story surrounding Banganga is a beautiful legend, originating from the epic Ramayana. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "According to local lore, Rama himself, while searching for Sita, stopped here, exhausted and thirsty, and asked his brother Lakshmana to create a source of water. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "Lakshmana miraculously shot an arrow into the ground, and water gushed forth, forming a tributary of the Ganges – hence the name Banganga. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "Today, the tank remains a rectangular pool, surrounded by steps, and features two pillars where oil lamps, or diyas, were traditionally lit. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The Walkeshwar Temple and Parshuram Temple, also part of this complex, are cared for by the Goud Saraswat Temple Trust, a group with deep roots in this area. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The water here is remarkably sweet, spring-fed and sustained despite its proximity to the sea. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Banganga has inspired artists over the years, and during Dev Diwali, a vibrant celebration takes place with music, dance, and the lighting of thousands of lamps. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "It’s a place of ongoing reverence and a testament to centuries of faith. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "Take a moment now to appreciate the serenity of this ancient site. [Scripture]",
+       "tag": "Scripture"
+      },
+      {
+       "text": "Look closely at the pillars at the entrance – can you imagine the oil lamps burning brightly here centuries ago? [Look at something]",
+       "tag": "History"
+      },
+      {
+       "text": "Now, let’s move on to explore the surrounding temple complex. [History]",
+       "tag": "History"
+      }
+     ],
+     "2": [
+      {
+       "text": "The history of Banganga is far more complex than a simple legend. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The original construction in 1127 by Lakshman Prabhu reflects the significant influence of the Silhara kings of Thane during that period. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The Goud Saraswat Brahmins, with their Mathas – the Shri Kashi Math and Shri Kaivalya/Kavale Math – have been integral to this site for generations. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The samadhis of past heads of these Mathas are a tangible link to this rich intellectual and spiritual heritage. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Consider the ongoing maintenance of the complex by the Goud Saraswat Temple Trust, a group that has owned much of the property since its inception. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The fact that the water remains sweet, despite its location near the sea, speaks to the unique geological conditions and the careful stewardship of this space. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Reflect on the enduring appeal of Banganga as a place of artistic inspiration – it’s a testament to the power of sacred spaces. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "During Dev Diwali, the sheer scale of the gathering highlights the deep-seated faith and community spirit surrounding this tank. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Now, count the steps leading down to the tank – approximately how many do you think there are? [Count something]",
+       "tag": "History"
+      }
+     ],
+     "3": [
+      {
+       "text": "The story of Banganga is not just about a miraculous spring; it’s a narrative of faith, lineage, and adaptation. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "The tank’s continuous renovation, from 1127 to 1715 and beyond, reveals a sustained commitment to preserving this sacred space across different rulers and communities. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The presence of the Mathas – the Kashi and Kaivalya/Kavale Maths – demonstrates the tank’s role as a center for learning and spiritual leadership within the Goud Saraswat Brahmin community. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The samadhis, memorials to revered figures, represent a profound respect for those who dedicated their lives to upholding religious traditions. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The ongoing maintenance by the Temple Trust underscores the importance of communal responsibility in safeguarding cultural heritage. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Consider the geological factors – the spring water’s purity is a result of specific underground aquifers and the careful management of this resource. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The tank’s role as an artistic inspiration highlights its ability to evoke profound emotions and ideas in those who experience it. [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "Touch the cool stone of one of the pillars – feel the weight of history and the countless prayers offered here over centuries. [Touch something real]",
+       "tag": "History"
+      }
+     ]
+    }
+   }
+  },
+  "banganga-walkeshwar-temple": {
+   "name": "Walkeshwar Temple",
+   "status": "draft",
+   "layers": {
+    "hi": {
+     "1": [
+      {
+       "text": "यह वाल्केश्वर मंदिर, जिसे बांगंगा मंदिर के नाम से भी जाना जाता है, एक प्राचीन हिंदू मंदिर है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह भगवान शिव को समर्पित है और मुंबई के दक्षिण में वाल्केश्वर नामक स्थान पर स्थित है, जो मालाबार हिल के पास है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "पौराणिक कथा के अनुसार, रामा ने अपने रास्ते में, सीता को बचाने के लिए, अयोध्या से लंका तक आते समय यहां रुकें। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "लक्ष्मण ने राम को शिवलिंग की पूजा करने की सलाह दी, और राम ने रेत से एक प्रारंभिक लिंगम बनाया। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "इस मंदिर का नाम ‘वाल्ुका इस्वर’ से आया है, जो भगवान शिव का एक अवतार है। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "राम को प्यास लगी थी, क्योंकि आसपास ताजे पानी की कमी थी, इसलिए उन्होंने तीर चलाकर गंगा को यहां ला दिया। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "‘बना’ का अर्थ है तीर, और ‘गंगा’ नदी का नाम है, इसलिए इस तरह बांगंगा टैंक का निर्माण हुआ। [Legend]",
+       "tag": "Legend"
+      },
+      {
+       "text": "यह टैंक भूमिगत झरने से पानी प्राप्त करता है, भले ही यह समुद्र के पास हो। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "मंदिर में हर महीने पूर्णिमा और अमावस्या के समय विशेष पूजा होती है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "1127 ईस्वी में, लक्ष्मण प्रभु, जो सिल्हारा राजवंश के मंत्रियों में से एक थे, ने इस मंदिर का निर्माण किया। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "पुर्तगालियों ने 16वीं शताब्दी में मंदिर को नष्ट कर दिया, लेकिन 1715 में राम कामती ने इसे फिर से बनाया। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "राम कामती, एक गौड़ सरस्वत ब्राह्मण थे, जो मुंबई के व्यवसायी और दानी थे। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आज, यहां एक वार्षिक शास्त्रीय संगीत समारोह होता है, जिसमें राजन और सजन मिश्र जैसे कलाकार भाग लेते हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप यहां के चारों ओर मौजूद 50 धर्मशालों को देख सकते हैं। [History]",
+       "tag": "History"
+      }
+     ],
+     "2": [
+      {
+       "text": "यह मंदिर वास्तव में एक महत्वपूर्ण ऐतिहासिक स्थल है, जो 1127 ईस्वी में लक्ष्मण प्रभु द्वारा बनाया गया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "बांगंगा टैंक की उत्पत्ति एक भूमिगत झरने से है, जो इसे समुद्र के पास होने के बावजूद, एक अद्वितीय स्रोत बनाती है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस मंदिर का निर्माण 16वीं शताब्दी में पुर्तगालियों के शासनकाल के दौरान हुआ था, और फिर राम कामती ने इसे पुनर्निर्मित किया। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यह स्थान 1860 के दशक में अधिक लोकप्रिय हो गया, जिसके कारण यहां 10 से 20 अन्य मंदिर बने और 50 धर्मशालों का निर्माण हुआ। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "आप बांगंगा टैंक के दोनों ओर मौजूद शाखाओं को देख सकते हैं, जो श्री कावले मठ और श्री काशी मठ से जुड़ी हैं। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "इस वार्षिक संगीत समारोह में भाग लेने वाले कलाकारों को ध्यान में रखें। [History]",
+       "tag": "History"
+      }
+     ],
+     "3": [
+      {
+       "text": "वाल्केश्वर मंदिर का निर्माण 1127 ईस्वी में लक्ष्मण प्रभु द्वारा किया गया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "राम कामती, एक गौड़ सरस्वत ब्राह्मण, ने मंदिर को पुनर्निर्माण करने में महत्वपूर्ण भूमिका निभाई। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "बांगंगा टैंक भूमिगत झरने से पानी प्राप्त करता है। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "मंदिर का पुनर्निर्माण 1715 में राम कामती ने किया था। [History]",
+       "tag": "History"
+      },
+      {
+       "text": "यहां 50 धर्मशालों का निर्माण हुआ। [History]",
+       "tag": "History"
+      }
+     ]
+    },
+    "en": {
+     "1": [
+      {
+       "text": "Welcome to Walkeshwar Temple, a remarkable site steeped in history and legend. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "This ancient Hindu temple, dedicated to Lord Shiva, was originally built in 1127 AD by Lakshman Prabhu, a minister of the Silhara dynasty. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The temple was later rebuilt in 1715 by Rama Kamat, a philanthropist, after it was destroyed by the Portuguese. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Today, Walkeshwar Temple is a vibrant center of worship and culture, hosting a renowned Hindustani classical music festival. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Look closely at the main temple structure and consider the centuries of devotion that have taken place within these walls. [Look]"
+      },
+      {
+       "text": "The temple’s continued popularity reflects its significance within the Gaud Saraswat Brahmin community and beyond. [History]",
+       "tag": "History"
+      }
+     ],
+     "2": [
+      {
+       "text": "Let’s delve deeper into the temple’s origins. Lakshman Prabhu, a key figure in the Chandraseniya Kayastha Prabhu community, served the Silhara Kings, rulers of Mumbai’s islands from 810 to 1240. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Rama Kamat’s intervention in 1715 highlights the ongoing connection between the temple and the local business community. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The temple’s growth, with 10 to 20 additional temples and 50 dharamshalas, demonstrates its central role in the community’s life. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The presence of the Shri Kavle Math and Shri Kashi Math, both significant religious seats for Gaud Saraswat Brahmins, adds another layer to the temple’s heritage. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The annual music festival showcases the temple’s enduring cultural significance and its ability to adapt and thrive. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Notice the intricate carvings and the overall design – a testament to the craftsmanship of the time. [Look]"
+      }
+     ],
+     "3": [
+      {
+       "text": "The temple’s construction in 1127 AD by Lakshman Prabhu is a pivotal moment in its history. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Rama Kamat’s rebuilding in 1715, driven by generosity, secured the temple’s future. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The Banganga Tank’s unique source – an underground spring – remains a remarkable geological feature. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The annual music festival, established in 2005, demonstrates the temple’s continued relevance in contemporary India. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "The presence of the Kavle and Kashi Math highlights the temple’s deep roots within the Gaud Saraswat Brahmin tradition. [History]",
+       "tag": "History"
+      },
+      {
+       "text": "Count the number of smaller temples surrounding the Banganga Tank – a tangible representation of the temple’s influence. [Count]"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

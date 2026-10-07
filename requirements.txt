@@ -1,0 +1,17 @@
+# Sthala PC pipeline requirements
+# Zero-marginal-cost: everything here is free/open. No API keys needed.
+requests>=2.31          # harvest.py: Overpass API + MediaWiki API
+tqdm>=4.66             # progress bars during harvest
+
+# --- PC-only: story generation (Ollama runs outside pip) ---
+# ollama>=0.40 installed via winget; model: gemma3:4b (ollama pull gemma3:4b)
+
+# --- PC-only: voicing (GPU) ---
+# torch: CUDA build for the RTX 5060, e.g.
+#   pip install --force-reinstall --no-deps torch \
+#       --index-url https://download.pytorch.org/whl/cu128
+# (torch 2.11.0+cu128 verified on Python 3.14; plain `pip install torch`
+#  gives a CPU-only build which also works, just slower)
+transformers>=4.46     # MMS-TTS (VitsModel) for voice.py
+soundfile>=0.12        # WAV writing in voice.py
+# ffmpeg>=9.0 installed via winget; needed on PATH for MP3 encoding

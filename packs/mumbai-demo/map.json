@@ -1,0 +1,71 @@
+{
+ "pack": "mumbai-demo",
+ "stops": [
+  {
+   "id": "sewri-sewri-fort",
+   "name": "Sewri Fort",
+   "lat": 19.0005078,
+   "lon": 72.8601265,
+   "radius_m": 35,
+   "status": "draft",
+   "audio": {
+    "1": {
+     "hi": "audio/sewri-sewri-fort_l1_hi.mp3",
+     "en": "audio/sewri-sewri-fort_l1_en.mp3"
+    },
+    "2": {
+     "hi": "audio/sewri-sewri-fort_l2_hi.mp3",
+     "en": "audio/sewri-sewri-fort_l2_en.mp3"
+    },
+    "3": {
+     "hi": "audio/sewri-sewri-fort_l3_hi.mp3",
+     "en": "audio/sewri-sewri-fort_l3_en.mp3"
+    }
+   }
+  },
+  {
+   "id": "banganga-banganga-tank",
+   "name": "Banganga Tank",
+   "lat": 18.94688333,
+   "lon": 72.79359167,
+   "radius_m": 35,
+   "status": "draft",
+   "audio": {
+    "1": {
+     "hi": "audio/banganga-banganga-tank_l1_hi.mp3",
+     "en": "audio/banganga-banganga-tank_l1_en.mp3"
+    },
+    "2": {
+     "hi": "audio/banganga-banganga-tank_l2_hi.mp3",
+     "en": "audio/banganga-banganga-tank_l2_en.mp3"
+    },
+    "3": {
+     "hi": "audio/banganga-banganga-tank_l3_hi.mp3",
+     "en": "audio/banganga-banganga-tank_l3_en.mp3"
+    }
+   }
+  },
+  {
+   "id": "banganga-walkeshwar-temple",
+   "name": "Walkeshwar Temple",
+   "lat": 18.945,
+   "lon": 72.794,
+   "radius_m": 35,
+   "status": "draft",
+   "audio": {
+    "1": {
+     "hi": "audio/banganga-walkeshwar-temple_l1_hi.mp3",
+     "en": "audio/banganga-walkeshwar-temple_l1_en.mp3"
+    },
+    "2": {
+     "hi": "audio/banganga-walkeshwar-temple_l2_hi.mp3",
+     "en": "audio/banganga-walkeshwar-temple_l2_en.mp3"
+    },
+    "3": {
+     "hi": "audio/banganga-walkeshwar-temple_l3_hi.mp3",
+     "en": "audio/banganga-walkeshwar-temple_l3_en.mp3"
+    }
+   }
+  }
+ ]
+}
